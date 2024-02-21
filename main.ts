@@ -47,7 +47,7 @@ let usingpass = false
 let shutdown = false
 let timesInBathroom = 0
 let user = ""
-user = "hugo"
+user = "Johann"
 timesInBathroom = 0
 shutdown = false
 basic.showLeds(`
